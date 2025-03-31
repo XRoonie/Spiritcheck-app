@@ -1,20 +1,20 @@
 
 # 🌌 SpiritCheck App
 
-**Spirituelle Impulse - von dir, für alle.**
+**Spirituelle Impulse – von dir, für alle.**
 
 ## Features
 
-- Tagesimpuls (wechselt täglich)
-- Zufalls-Impuls Button
-- Jeder Besucher kann eigene Impulse einsenden
-- Alle Impulse live sichtbar
-- Stylisches, spaciges Design
+- Impulse live speichern & anzeigen (Supabase)
+- Impulse löschen (Admin)
+- Next.js, modern & mobilfähig
 
-## Deployment
+## Setup
 
-1. Repository auf GitHub hochladen
-2. Mit [Vercel](https://vercel.com) verbinden
-3. Deploy 🎉
+1. Supabase Projekt erstellen
+2. Tabelle `impulses` anlegen (Spalten: id, message)
+3. `.env.local` mit deinen Supabase Keys befüllen
+4. `npm install && npm run dev`
+5. Online mit [Vercel](https://vercel.com) deployen
 
-**Enjoy!**
+Enjoy! 🚀
