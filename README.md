@@ -1,15 +1,20 @@
 
-# 🌟 SpiritCheck App
+# 🌌 SpiritCheck App
 
-**Finde deinen täglichen spirituellen Impuls.**  
-Klicke auf den Button und lass dich inspirieren.
-
-Live-Demo: https://spiritcheck-app.vercel.app
+**Spirituelle Impulse - von dir, für alle.**
 
 ## Features
-- Animiertes, modernes Design
-- Tages-Impuls Funktion
-- Vercel-Ready
 
-## Lizenz
-MIT License
+- Tagesimpuls (wechselt täglich)
+- Zufalls-Impuls Button
+- Jeder Besucher kann eigene Impulse einsenden
+- Alle Impulse live sichtbar
+- Stylisches, spaciges Design
+
+## Deployment
+
+1. Repository auf GitHub hochladen
+2. Mit [Vercel](https://vercel.com) verbinden
+3. Deploy 🎉
+
+**Enjoy!**
